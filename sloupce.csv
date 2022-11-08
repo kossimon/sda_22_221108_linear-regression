@@ -1,0 +1,81 @@
+nazvy;
+MSSubClass;drop
+MSZoning;drop
+LotFrontage;na = 0
+LotArea;ok
+Street;drop
+Alley;drop
+LotShape;dumm
+LandContour;dumm
+Utilities;1 a_ 4
+LotConfig;dumm
+LandSlope;1 a_ 5
+Neighborhood;drop
+Condition1;dumm
+Condition2;dumm
+BldgType;dumm
+HouseStyle;dumm
+OverallQual;ok
+OverallCond;ok
+YearBuilt;ok
+YearRemodAdd;ok
+RoofStyle;drop
+RoofMatl;drop
+Exterior1st;drop
+Exterior2nd;drop
+MasVnrType;drop
+MasVnrArea;drop
+ExterQual;1 a_ 4
+ExterCond;1 a_ 4
+Foundation;dumm
+BsmtQual;dumm
+BsmtCond;dumm
+BsmtExposure;drop
+BsmtFinType1;drop
+BsmtFinSF1;drop
+BsmtFinType2;drop
+BsmtFinSF2;drop
+BsmtUnfSF;drop
+TotalBsmtSF;ok
+Heating;dumm
+HeatingQC;1 a_ 5
+CentralAir;1-0
+Electrical;dumm
+1stFlrSF;ok
+2ndFlrSF;ok
+LowQualFinSF;ok
+GrLivArea;ok
+BsmtFullBath;ok
+BsmtHalfBath;ok
+FullBath;ok
+HalfBath;ok
+BedroomAbvGr;ok
+KitchenAbvGr;ok
+KitchenQual;0 a_ 5
+TotRmsAbvGrd;ok
+Functional;dumm
+Fireplaces;ok
+FireplaceQu;drop
+GarageType;dumm
+GarageYrBlt;ok
+GarageFinish;drop
+GarageCars;ok
+GarageArea;ok
+GarageQual;0 a_ 5
+GarageCond;0 a_ 5
+PavedDrive;drop
+WoodDeckSF;ok
+OpenPorchSF;ok
+EnclosedPorch;ok
+3SsnPorch;ok
+ScreenPorch;ok
+PoolArea;ok
+PoolQC;drop
+Fence;drop
+MiscFeature;drop
+MiscVal;drop
+MoSold;drop
+YrSold;ok
+SaleType;dumm
+SaleCondition;dumm
+SalePrice;
